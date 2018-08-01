@@ -10,6 +10,7 @@
 #import <JavaScriptCore/JavaScriptCore.h>
 
 @interface YLT_HotfixManager : NSObject
+
 YLT_ShareInstanceHeader(YLT_HotfixManager);
 
 /**
