@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YLT_Hotfix_Example' do
+  pod 'YLT_Hotfix', :path => '../'
+  pod 'WToast'
+
+  target 'YLT_Hotfix_Tests' do
+    inherit! :search_paths
+    
+  end
+end

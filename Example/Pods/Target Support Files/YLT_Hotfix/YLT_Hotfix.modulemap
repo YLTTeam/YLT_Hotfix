@@ -1,0 +1,6 @@
+framework module YLT_Hotfix {
+  umbrella header "YLT_Hotfix-umbrella.h"
+
+  export *
+  module * { export * }
+}

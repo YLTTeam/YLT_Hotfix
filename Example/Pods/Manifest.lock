@@ -1,0 +1,39 @@
+PODS:
+  - Aspects (1.4.1)
+  - FastCoding (3.3)
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - LGAlertView (2.4.0)
+  - MJExtension (3.0.15.1)
+  - WToast (2.1.1)
+  - YLT_BaseLib (0.1.14):
+    - FastCoding
+    - FMDB
+    - LGAlertView
+    - MJExtension
+  - YLT_Hotfix (0.0.1):
+    - Aspects
+    - YLT_BaseLib
+
+DEPENDENCIES:
+  - WToast
+  - YLT_Hotfix (from `../`)
+
+EXTERNAL SOURCES:
+  YLT_Hotfix:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  FastCoding: 3b590f7143a229780fa744b35084d85d9461587e
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  LGAlertView: 2f5e83dd5cc2537de57d98727650609e86197d1a
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  WToast: d4bd28442dd5ff69d66fe82f5be8c8895c7a0a67
+  YLT_BaseLib: 424d9369e24879c89e3025a3279eff9dc2760fa1
+  YLT_Hotfix: a80cfb0e5e9c7250625824658c882ea1d624bfd0
+
+PODFILE CHECKSUM: 773d33bfcfadda629a61e4f4d11cab6f32a191ed
+
+COCOAPODS: 1.4.0
