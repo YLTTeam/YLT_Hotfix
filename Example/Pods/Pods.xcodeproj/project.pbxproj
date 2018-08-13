@@ -43,7 +43,6 @@
 		3F7BBDADFFCBA9E6EF4450294D0EC654 /* LGAlertViewWindowContainer.h in Headers */ = {isa = PBXBuildFile; fileRef = AE91C2F7BB48CBC5860A81B557A3CFD3 /* LGAlertViewWindowContainer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4B57B0AD842788BF037759E1651B39FC /* WToast-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 78BC18501FFBAB2C75A271944AD64559 /* WToast-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4C2EAF8AE205B37B80493F6F4C2BAC84 /* YLT_BaseLib.h in Headers */ = {isa = PBXBuildFile; fileRef = 880AEB53A605E1F5967EECC933504A0E /* YLT_BaseLib.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4D2F4D195DB5F5B9698D465FF0CFEE83 /* Pods-YLT_Hotfix_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 86BCB3FB4EFD88A981E8AA46A9137080 /* Pods-YLT_Hotfix_Tests-dummy.m */; };
 		4E5280BA7D12895F4859F7C3662F8348 /* NSTimer+YLT_Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C8E13F62FF3174BB6937860E13EC1F6 /* NSTimer+YLT_Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		506CE4ACD96B5F69FB1D82470A183E07 /* LGAlertViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 5C2C46AC50CFB60839B00F6DA97086D0 /* LGAlertViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5154D7F24CAFDF05393E78C34B9F0B21 /* NSString+YLT_Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 2CC76D8725AB656B2015A9ABF3352B29 /* NSString+YLT_Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -61,7 +60,7 @@
 		635AA6954697D033FB7906F4A8B82D9E /* UIDevice+YLT_Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 839C5F9FC11F73064A14BB2147C15537 /* UIDevice+YLT_Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		64298620A2F1EFAB12386F3861E08D40 /* NSObject+MJCoding.h in Headers */ = {isa = PBXBuildFile; fileRef = 65092E6B136968437EE26C6902C2A88C /* NSObject+MJCoding.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		66329CDDB2E4012E430D7893F45B141C /* MJExtension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF5D5216E4951237A3DD80EF7DC5D0DF /* MJExtension.framework */; };
-		67EF75F179AA55CE5CD0A5FD6EB4BF11 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7837498C876005783A2DC961869B26A1 /* Foundation.framework */; };
+		663A21B13FB364C93FA4E388763DCAE9 /* Pods-YLT_Hotfix_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A5A372E930DAC0340C45CB1684B2A4D0 /* Pods-YLT_Hotfix_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		68D2DBC4BB22C46E991FC2A3129C0FEB /* FMDB.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D8036C810C8D2843A88F7C5EFA5446B /* FMDB.framework */; };
 		6DA14D61DB56E00FF18F2F75C51454AE /* MJExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = CD356C786FA9D2957AF7F7739F9464B7 /* MJExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6E16ABFC550A2BCA8EC69F9E13A76F68 /* FastCoding-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A52C7421EB41AD94A38BC7431B6DA9C /* FastCoding-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -93,6 +92,7 @@
 		8A6CB365701019DE0E7A13A99CB0DBAA /* YLT_ModularManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 33B127E323FB133846DC3057505F69B0 /* YLT_ModularManager.m */; };
 		8D5A0FEAB1C5B4D5A8095CAEC97DCF8F /* FastCoding.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C51C98FA8D8271DE1DCE74AD34FDBB45 /* FastCoding.framework */; };
 		8EC1C8F8C76EDF5D019E8EBA01C2ABB3 /* NSObject+MJCoding.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DCE09C39DE01975F8A748FC307F8CFC /* NSObject+MJCoding.m */; };
+		8FBA3D2AECD61F65C6B771CD9A94C1FC /* Pods-YLT_Hotfix_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 86BCB3FB4EFD88A981E8AA46A9137080 /* Pods-YLT_Hotfix_Tests-dummy.m */; };
 		90EF10E46A754411EC26F13145A5024B /* YLT_AuthorizationHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D0BD2AD9C4755960BCDF28EA0DB7C43 /* YLT_AuthorizationHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		911F24AA6C09027B2AA788F08EAF57F9 /* FastCoding-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D524392E1A2548CBA9F4D2D065BB270 /* FastCoding-dummy.m */; };
 		96E70B43FC04BC99AED1BBD4FB1D7581 /* FMDB-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D58EFE896BD3D98CE5154E3582A27CB /* FMDB-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -100,7 +100,6 @@
 		9B8D84996694C541CD3434386E0A081A /* FMDatabasePool.h in Headers */ = {isa = PBXBuildFile; fileRef = 36BCF8BE7C95E2775516E57457680A47 /* FMDatabasePool.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9C05CB36B3A7E67FC1AAB16DF88DDE4F /* YLT_DownloaderHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 3814B6757728F0CDE81873A99035938D /* YLT_DownloaderHelper.m */; };
 		9C11A290C9C5866A185A54F1EC04E2BB /* FMDatabaseAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B586DDB15B2F7D72556A31603B0D2215 /* FMDatabaseAdditions.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		9D615F6A5932492AE94CB6C3D99EB9C8 /* Pods-YLT_Hotfix_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A5A372E930DAC0340C45CB1684B2A4D0 /* Pods-YLT_Hotfix_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9DC6ADB7411C1869C2DA5FED9B3012AA /* YLT_BaseLib-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A9D28334ABA38BA7AB0B78D9F93C4C8 /* YLT_BaseLib-dummy.m */; };
 		9F075E85F311F569892EDFC2A6F01B07 /* YLT_Tools.h in Headers */ = {isa = PBXBuildFile; fileRef = C817D9FC155054A667BD560673665B8B /* YLT_Tools.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A1B5D80A8998311B8C9043E6942925E6 /* FMDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = C19F563351A3539632FAE389E952C253 /* FMDatabaseQueue.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
@@ -158,6 +157,7 @@
 		F6F00AB9C7083ECE4A27E066EE47D068 /* LGAlertViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0747D52DB00DE4C78A3A5CF73C1C8AB7 /* LGAlertViewController.m */; };
 		F75E2AE2D12480AE889D1D3B7A654FAA /* MJExtension-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F2183DB63E47D1D955B15A71B1DB7FBC /* MJExtension-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F7A212386412B22BE6613C5770C12013 /* YLT_PhotoHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = B8F1B54F654E64DF033E7DAD5C2300F9 /* YLT_PhotoHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F84FE85CE923E88C495EBDEE677C1443 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7837498C876005783A2DC961869B26A1 /* Foundation.framework */; };
 		F8A97D587D1F87941F4069625256C78A /* YLT_BaseRouter.h in Headers */ = {isa = PBXBuildFile; fileRef = 97680ECB06C517F468C94B4C92E3C885 /* YLT_BaseRouter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F9C369B6A594C42B01CCC0F3D2C732F2 /* YLT_BaseLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA24E8F213AD074B78F0829322ED89E1 /* YLT_BaseLib.framework */; };
 		FBD8DDE10C7019F8190CE2795396F38A /* UIWindow+LGAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 945C47C075D4BE701EF6893C8C2F9E7F /* UIWindow+LGAlertView.m */; };
@@ -168,6 +168,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		04161BFC4119F48022760241556BCB7C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 87DB4944AC290DFF839FDD9BCEDCF359;
+			remoteInfo = "Pods-YLT_Hotfix_Example";
+		};
 		123905C80191C1C57FAF239567CC826A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
@@ -515,14 +522,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		10A65679BB6A61C7DDA95422ED30B644 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				67EF75F179AA55CE5CD0A5FD6EB4BF11 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		44744121548AEFC4ECDFBFDC4919FFA2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -580,6 +579,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				8450D9563BBFFA832E53B7F8CCB3A0CC /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CB611D1AC73A9F2208A480D246CEEDAB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F84FE85CE923E88C495EBDEE677C1443 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1084,6 +1091,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		59A479E22BB09E205D11C34A56576A42 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				663A21B13FB364C93FA4E388763DCAE9 /* Pods-YLT_Hotfix_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		7D03B59D9E997FA2A2846B63100E6165 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -1123,14 +1138,6 @@
 				837FF4A1FC92C465EABBE3F5C053F9DF /* YLT_HotfixManager+NSArray.h in Headers */,
 				2ABDAA55ECE5ACDCA21A651C4C100260 /* YLT_HotfixManager+NSObject.h in Headers */,
 				527A715277320495BECC6C622A6153D3 /* YLT_HotfixManager.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		E2B617761EF9F2D6BF27164DA45F6A94 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9D615F6A5932492AE94CB6C3D99EB9C8 /* Pods-YLT_Hotfix_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1187,23 +1194,6 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		051A62E6A624A53F7AC0374B24646308 /* Pods-YLT_Hotfix_Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 016CDAB32914A9A723C7A097475F03F8 /* Build configuration list for PBXNativeTarget "Pods-YLT_Hotfix_Tests" */;
-			buildPhases = (
-				8EC5341741E175B7ECF830F99949E193 /* Sources */,
-				10A65679BB6A61C7DDA95422ED30B644 /* Frameworks */,
-				E2B617761EF9F2D6BF27164DA45F6A94 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Pods-YLT_Hotfix_Tests";
-			productName = "Pods-YLT_Hotfix_Tests";
-			productReference = 176E9800661EC171D6A61207957357DF /* Pods_YLT_Hotfix_Tests.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		251BAD17812F7EBF6532EACF66F941C3 /* FMDB */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5B0566FF0CE681AC326D316CEC45A8CF /* Build configuration list for PBXNativeTarget "FMDB" */;
@@ -1352,6 +1342,24 @@
 			productReference = B19F49C942AB5AC367AC8560AF10C157 /* WToast.framework */;
 			productType = "com.apple.product-type.framework";
 		};
+		D123BC86034E129BFBCE2ABB98117109 /* Pods-YLT_Hotfix_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5FA6CF8E85EB19D4ACDF71870E6ADF15 /* Build configuration list for PBXNativeTarget "Pods-YLT_Hotfix_Tests" */;
+			buildPhases = (
+				89C3B75D0624872E5224376A05AC5584 /* Sources */,
+				CB611D1AC73A9F2208A480D246CEEDAB /* Frameworks */,
+				59A479E22BB09E205D11C34A56576A42 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1E4E86DC3B0A7692E88DE0D204A3B25B /* PBXTargetDependency */,
+			);
+			name = "Pods-YLT_Hotfix_Tests";
+			productName = "Pods-YLT_Hotfix_Tests";
+			productReference = 176E9800661EC171D6A61207957357DF /* Pods_YLT_Hotfix_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 		D8447FFF20620E5525AC3A458C6DDB1A /* YLT_Hotfix */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6E15384FA596CEF21F3B6039983D3C46 /* Build configuration list for PBXNativeTarget "YLT_Hotfix" */;
@@ -1402,7 +1410,7 @@
 				8A140B679D8F469A8D95AACE9FEEAFD6 /* LGAlertView */,
 				5AA17C95E926B760FD08E0B487DAEFA2 /* MJExtension */,
 				87DB4944AC290DFF839FDD9BCEDCF359 /* Pods-YLT_Hotfix_Example */,
-				051A62E6A624A53F7AC0374B24646308 /* Pods-YLT_Hotfix_Tests */,
+				D123BC86034E129BFBCE2ABB98117109 /* Pods-YLT_Hotfix_Tests */,
 				962DB139A88D21EBECB064543194A00A /* WToast */,
 				9599A3362F21CD96126C07FBB41E0191 /* YLT_BaseLib */,
 				D8447FFF20620E5525AC3A458C6DDB1A /* YLT_Hotfix */,
@@ -1517,11 +1525,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8EC5341741E175B7ECF830F99949E193 /* Sources */ = {
+		89C3B75D0624872E5224376A05AC5584 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D2F4D195DB5F5B9698D465FF0CFEE83 /* Pods-YLT_Hotfix_Tests-dummy.m in Sources */,
+				8FBA3D2AECD61F65C6B771CD9A94C1FC /* Pods-YLT_Hotfix_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1555,6 +1563,12 @@
 			name = LGAlertView;
 			target = 8A140B679D8F469A8D95AACE9FEEAFD6 /* LGAlertView */;
 			targetProxy = BBB530CEC1CCD6BC675B6D62C02ABADB /* PBXContainerItemProxy */;
+		};
+		1E4E86DC3B0A7692E88DE0D204A3B25B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-YLT_Hotfix_Example";
+			target = 87DB4944AC290DFF839FDD9BCEDCF359 /* Pods-YLT_Hotfix_Example */;
+			targetProxy = 04161BFC4119F48022760241556BCB7C /* PBXContainerItemProxy */;
 		};
 		40FB7B06B5CDF91B093641A874189848 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -1661,433 +1675,7 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		096AA0CD7024DCF011FB74B59AD97BC3 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 74AB07D22FE022480FA6B0919C04607F /* WToast.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/WToast/WToast-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/WToast/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/WToast/WToast.modulemap";
-				PRODUCT_NAME = WToast;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		0B7E5CC0F8627CCF8A147E4878BDB145 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 74AB07D22FE022480FA6B0919C04607F /* WToast.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/WToast/WToast-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/WToast/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/WToast/WToast.modulemap";
-				PRODUCT_NAME = WToast;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		0D65121CB2DB1F8177577041C97F023E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E5B89860AB1766671A7D1D0529925F41 /* MJExtension.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MJExtension/MJExtension-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MJExtension/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MJExtension/MJExtension.modulemap";
-				PRODUCT_NAME = MJExtension;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		15DB1EBFDB2F1B3638AC29E7212457FE /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 885C782B1737F3B7EDF1C54FE085A7F7 /* Aspects.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/Aspects/Aspects-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Aspects/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Aspects/Aspects.modulemap";
-				PRODUCT_NAME = Aspects;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		201F1F0D82FF4B18D7B50CEA4D15E02F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 056A946446FDD8BF580A175CF3BC3C27 /* Pods-YLT_Hotfix_Tests.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-YLT_Hotfix_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-YLT_Hotfix_Tests/Pods-YLT_Hotfix_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_YLT_Hotfix_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		236E3EAC94FCD738D267D84A3E727EEE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7B217E6AFE7E8F6451A031638C1F4B71 /* FMDB.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FMDB/FMDB-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FMDB/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FMDB/FMDB.modulemap";
-				PRODUCT_NAME = FMDB;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		49B037DA89A9E982102F04E486A2DAFF /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FE2C01B14BB14931B20A30F49F0DB7DD /* Pods-YLT_Hotfix_Example.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-YLT_Hotfix_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-YLT_Hotfix_Example/Pods-YLT_Hotfix_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_YLT_Hotfix_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		671C3764C0E19EC5717F922FE276B920 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 88E565513762B7D433E1D5B38B859A68 /* YLT_BaseLib.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/YLT_BaseLib/YLT_BaseLib-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/YLT_BaseLib/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/YLT_BaseLib/YLT_BaseLib.modulemap";
-				PRODUCT_NAME = YLT_BaseLib;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		67C068B4E1F5752DE75F1E0B05BED593 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = D43B60B237F4CAB86CF3204375A2D9F2 /* FastCoding.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FastCoding/FastCoding-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FastCoding/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FastCoding/FastCoding.modulemap";
-				PRODUCT_NAME = FastCoding;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		83F86CA598B512B33CCD324026885FCC /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E5B89860AB1766671A7D1D0529925F41 /* MJExtension.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MJExtension/MJExtension-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MJExtension/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MJExtension/MJExtension.modulemap";
-				PRODUCT_NAME = MJExtension;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		8763E1A7C3C6E56251CAA067A0A82F23 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3E1629A5F215C0FAE58B67CE3DD1B04D /* Pods-YLT_Hotfix_Tests.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-YLT_Hotfix_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-YLT_Hotfix_Tests/Pods-YLT_Hotfix_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_YLT_Hotfix_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		8B924C5F5B8D15C970A112339CE1DE14 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7B217E6AFE7E8F6451A031638C1F4B71 /* FMDB.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FMDB/FMDB-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FMDB/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FMDB/FMDB.modulemap";
-				PRODUCT_NAME = FMDB;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		A571B4A7CFE482D59B76F4F40FD58F29 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = EDB37CD3FE38D5455CE440B08990AF2D /* Pods-YLT_Hotfix_Example.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-YLT_Hotfix_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-YLT_Hotfix_Example/Pods-YLT_Hotfix_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_YLT_Hotfix_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		A74BBA4AE9DAB4912DFAC3616F72EA2E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = D43B60B237F4CAB86CF3204375A2D9F2 /* FastCoding.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FastCoding/FastCoding-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FastCoding/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FastCoding/FastCoding.modulemap";
-				PRODUCT_NAME = FastCoding;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		AB47E522C81F2AB62F2AAA7B4714383A /* Release */ = {
+		12943F569C4A32724A8D9D9DCCC05F24 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D3159AB3C37C07271EB44A8F2299FB2C /* YLT_Hotfix.xcconfig */;
 			buildSettings = {
@@ -2106,6 +1694,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/YLT_Hotfix/YLT_Hotfix.modulemap";
+				PRODUCT_MODULE_NAME = YLT_Hotfix;
 				PRODUCT_NAME = YLT_Hotfix;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2117,9 +1706,9 @@
 			};
 			name = Release;
 		};
-		BAB86B48ECB819251C3A69DF8228A5B5 /* Release */ = {
+		135C928BBA76FAB37C65436B8681C3A4 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9C00EAFE79CD73BB59B8E641C9C9D3BF /* LGAlertView.xcconfig */;
+			baseConfigurationReference = E5B89860AB1766671A7D1D0529925F41 /* MJExtension.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -2130,13 +1719,14 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/LGAlertView/LGAlertView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/LGAlertView/Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/MJExtension/MJExtension-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MJExtension/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/LGAlertView/LGAlertView.modulemap";
-				PRODUCT_NAME = LGAlertView;
+				MODULEMAP_FILE = "Target Support Files/MJExtension/MJExtension.modulemap";
+				PRODUCT_MODULE_NAME = MJExtension;
+				PRODUCT_NAME = MJExtension;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
@@ -2147,7 +1737,67 @@
 			};
 			name = Release;
 		};
-		C3E37FB098AE76440E29106ADBF00CEB /* Debug */ = {
+		1A35E2AA7F2840C64A43DDE4790D0A4C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E5B89860AB1766671A7D1D0529925F41 /* MJExtension.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MJExtension/MJExtension-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MJExtension/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MJExtension/MJExtension.modulemap";
+				PRODUCT_MODULE_NAME = MJExtension;
+				PRODUCT_NAME = MJExtension;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		1BC623AD06767CE1E611428551E6EAA2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D43B60B237F4CAB86CF3204375A2D9F2 /* FastCoding.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FastCoding/FastCoding-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FastCoding/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FastCoding/FastCoding.modulemap";
+				PRODUCT_MODULE_NAME = FastCoding;
+				PRODUCT_NAME = FastCoding;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		1EE19F5DD95931924296F637BF18BD8F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -2179,6 +1829,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
@@ -2203,14 +1854,361 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		D5CC643D251FA2B6CDACD4B99A0DDA1A /* Debug */ = {
+		2C6BFEDEEE9C38C0CE7A67627D9EB923 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EDB37CD3FE38D5455CE440B08990AF2D /* Pods-YLT_Hotfix_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-YLT_Hotfix_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-YLT_Hotfix_Example/Pods-YLT_Hotfix_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		4B848AD9BCFAAFD6CD4690B510FB05A8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9C00EAFE79CD73BB59B8E641C9C9D3BF /* LGAlertView.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LGAlertView/LGAlertView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LGAlertView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LGAlertView/LGAlertView.modulemap";
+				PRODUCT_MODULE_NAME = LGAlertView;
+				PRODUCT_NAME = LGAlertView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		5DE68792807F8044EA85BC253331F09F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 056A946446FDD8BF580A175CF3BC3C27 /* Pods-YLT_Hotfix_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-YLT_Hotfix_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-YLT_Hotfix_Tests/Pods-YLT_Hotfix_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		5EA25C1E9FDF8DEF6A53F68A6237E686 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7B217E6AFE7E8F6451A031638C1F4B71 /* FMDB.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FMDB/FMDB-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FMDB/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FMDB/FMDB.modulemap";
+				PRODUCT_MODULE_NAME = FMDB;
+				PRODUCT_NAME = FMDB;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		61418D1BB51FC771AA96F2EE50C9B6A7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FE2C01B14BB14931B20A30F49F0DB7DD /* Pods-YLT_Hotfix_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-YLT_Hotfix_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-YLT_Hotfix_Example/Pods-YLT_Hotfix_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		6EE55D1BE169B92EF61FC9C106CBF747 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9C00EAFE79CD73BB59B8E641C9C9D3BF /* LGAlertView.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LGAlertView/LGAlertView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LGAlertView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LGAlertView/LGAlertView.modulemap";
+				PRODUCT_MODULE_NAME = LGAlertView;
+				PRODUCT_NAME = LGAlertView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		7012BC58C9547FE5C49D75801DB7FC1B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3E1629A5F215C0FAE58B67CE3DD1B04D /* Pods-YLT_Hotfix_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-YLT_Hotfix_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-YLT_Hotfix_Tests/Pods-YLT_Hotfix_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		7D95619E7EDE9F3FC6AD74F265102D66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7B217E6AFE7E8F6451A031638C1F4B71 /* FMDB.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FMDB/FMDB-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FMDB/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FMDB/FMDB.modulemap";
+				PRODUCT_MODULE_NAME = FMDB;
+				PRODUCT_NAME = FMDB;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		9D2AAA2DD48A48EB738BA62A64264150 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 88E565513762B7D433E1D5B38B859A68 /* YLT_BaseLib.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/YLT_BaseLib/YLT_BaseLib-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/YLT_BaseLib/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/YLT_BaseLib/YLT_BaseLib.modulemap";
+				PRODUCT_MODULE_NAME = YLT_BaseLib;
+				PRODUCT_NAME = YLT_BaseLib;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		AB4369262D604BD5C67B6053E09B2A37 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 88E565513762B7D433E1D5B38B859A68 /* YLT_BaseLib.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/YLT_BaseLib/YLT_BaseLib-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/YLT_BaseLib/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/YLT_BaseLib/YLT_BaseLib.modulemap";
+				PRODUCT_MODULE_NAME = YLT_BaseLib;
+				PRODUCT_NAME = YLT_BaseLib;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		B9F7B78CEBA03F3B45659E5445D79C95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 885C782B1737F3B7EDF1C54FE085A7F7 /* Aspects.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Aspects/Aspects-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Aspects/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Aspects/Aspects.modulemap";
+				PRODUCT_MODULE_NAME = Aspects;
+				PRODUCT_NAME = Aspects;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		BD16B97F834ABC49CFBE316C3FB589A3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D3159AB3C37C07271EB44A8F2299FB2C /* YLT_Hotfix.xcconfig */;
 			buildSettings = {
@@ -2229,6 +2227,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/YLT_Hotfix/YLT_Hotfix.modulemap";
+				PRODUCT_MODULE_NAME = YLT_Hotfix;
 				PRODUCT_NAME = YLT_Hotfix;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2239,7 +2238,98 @@
 			};
 			name = Debug;
 		};
-		DA03565BE765DB55C6448FB363A44481 /* Release */ = {
+		C347C1406A03E0C9AFAF49E5DC4FE130 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 885C782B1737F3B7EDF1C54FE085A7F7 /* Aspects.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Aspects/Aspects-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Aspects/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Aspects/Aspects.modulemap";
+				PRODUCT_MODULE_NAME = Aspects;
+				PRODUCT_NAME = Aspects;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		C5124F9C84A77ACB3AA07F136E8C860D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 74AB07D22FE022480FA6B0919C04607F /* WToast.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/WToast/WToast-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/WToast/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/WToast/WToast.modulemap";
+				PRODUCT_MODULE_NAME = WToast;
+				PRODUCT_NAME = WToast;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		E54A5675F769894EC249F8341123C1B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 74AB07D22FE022480FA6B0919C04607F /* WToast.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/WToast/WToast-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/WToast/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/WToast/WToast.modulemap";
+				PRODUCT_MODULE_NAME = WToast;
+				PRODUCT_NAME = WToast;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		F4568DEE257655D290C2B9CEAB37C934 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -2271,6 +2361,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
@@ -2291,15 +2382,14 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		DE738297FB411377FE766CFC3C02B39D /* Debug */ = {
+		F84BC0BF82EDABCDF81D2996C41E18F6 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 885C782B1737F3B7EDF1C54FE085A7F7 /* Aspects.xcconfig */;
+			baseConfigurationReference = D43B60B237F4CAB86CF3204375A2D9F2 /* FastCoding.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -2310,97 +2400,32 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/Aspects/Aspects-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Aspects/Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/FastCoding/FastCoding-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FastCoding/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Aspects/Aspects.modulemap";
-				PRODUCT_NAME = Aspects;
+				MODULEMAP_FILE = "Target Support Files/FastCoding/FastCoding.modulemap";
+				PRODUCT_MODULE_NAME = FastCoding;
+				PRODUCT_NAME = FastCoding;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
-		};
-		ED47A72A12F5599288419ABA06A34971 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 88E565513762B7D433E1D5B38B859A68 /* YLT_BaseLib.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/YLT_BaseLib/YLT_BaseLib-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/YLT_BaseLib/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/YLT_BaseLib/YLT_BaseLib.modulemap";
-				PRODUCT_NAME = YLT_BaseLib;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		F934566BBBB525B5DBBEF18D5A0AC47D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9C00EAFE79CD73BB59B8E641C9C9D3BF /* LGAlertView.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/LGAlertView/LGAlertView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/LGAlertView/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/LGAlertView/LGAlertView.modulemap";
-				PRODUCT_NAME = LGAlertView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
+			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		016CDAB32914A9A723C7A097475F03F8 /* Build configuration list for PBXNativeTarget "Pods-YLT_Hotfix_Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				201F1F0D82FF4B18D7B50CEA4D15E02F /* Debug */,
-				8763E1A7C3C6E56251CAA067A0A82F23 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		06564E4F5A40A02610AFA51432CB9187 /* Build configuration list for PBXNativeTarget "MJExtension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0D65121CB2DB1F8177577041C97F023E /* Debug */,
-				83F86CA598B512B33CCD324026885FCC /* Release */,
+				1A35E2AA7F2840C64A43DDE4790D0A4C /* Debug */,
+				135C928BBA76FAB37C65436B8681C3A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2408,8 +2433,8 @@
 		169D9CF6AD1E745F7DD3059DC47C6B62 /* Build configuration list for PBXNativeTarget "Aspects" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DE738297FB411377FE766CFC3C02B39D /* Debug */,
-				15DB1EBFDB2F1B3638AC29E7212457FE /* Release */,
+				C347C1406A03E0C9AFAF49E5DC4FE130 /* Debug */,
+				B9F7B78CEBA03F3B45659E5445D79C95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2417,8 +2442,8 @@
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C3E37FB098AE76440E29106ADBF00CEB /* Debug */,
-				DA03565BE765DB55C6448FB363A44481 /* Release */,
+				1EE19F5DD95931924296F637BF18BD8F /* Debug */,
+				F4568DEE257655D290C2B9CEAB37C934 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2426,8 +2451,8 @@
 		428723A348BFE33A62382019FDDEE956 /* Build configuration list for PBXNativeTarget "Pods-YLT_Hotfix_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A571B4A7CFE482D59B76F4F40FD58F29 /* Debug */,
-				49B037DA89A9E982102F04E486A2DAFF /* Release */,
+				2C6BFEDEEE9C38C0CE7A67627D9EB923 /* Debug */,
+				61418D1BB51FC771AA96F2EE50C9B6A7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2435,8 +2460,17 @@
 		5B0566FF0CE681AC326D316CEC45A8CF /* Build configuration list for PBXNativeTarget "FMDB" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				236E3EAC94FCD738D267D84A3E727EEE /* Debug */,
-				8B924C5F5B8D15C970A112339CE1DE14 /* Release */,
+				5EA25C1E9FDF8DEF6A53F68A6237E686 /* Debug */,
+				7D95619E7EDE9F3FC6AD74F265102D66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5FA6CF8E85EB19D4ACDF71870E6ADF15 /* Build configuration list for PBXNativeTarget "Pods-YLT_Hotfix_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5DE68792807F8044EA85BC253331F09F /* Debug */,
+				7012BC58C9547FE5C49D75801DB7FC1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2444,8 +2478,8 @@
 		6E15384FA596CEF21F3B6039983D3C46 /* Build configuration list for PBXNativeTarget "YLT_Hotfix" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D5CC643D251FA2B6CDACD4B99A0DDA1A /* Debug */,
-				AB47E522C81F2AB62F2AAA7B4714383A /* Release */,
+				BD16B97F834ABC49CFBE316C3FB589A3 /* Debug */,
+				12943F569C4A32724A8D9D9DCCC05F24 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2453,8 +2487,8 @@
 		B59D4394F450D586AFF685DF006E5FD2 /* Build configuration list for PBXNativeTarget "LGAlertView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F934566BBBB525B5DBBEF18D5A0AC47D /* Debug */,
-				BAB86B48ECB819251C3A69DF8228A5B5 /* Release */,
+				4B848AD9BCFAAFD6CD4690B510FB05A8 /* Debug */,
+				6EE55D1BE169B92EF61FC9C106CBF747 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2462,8 +2496,8 @@
 		BC662F55C7051FF6074D3EA6AB5FB0CF /* Build configuration list for PBXNativeTarget "WToast" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0B7E5CC0F8627CCF8A147E4878BDB145 /* Debug */,
-				096AA0CD7024DCF011FB74B59AD97BC3 /* Release */,
+				E54A5675F769894EC249F8341123C1B0 /* Debug */,
+				C5124F9C84A77ACB3AA07F136E8C860D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2471,8 +2505,8 @@
 		D689F22E3F89417939D9CE78DC2BAD3F /* Build configuration list for PBXNativeTarget "FastCoding" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A74BBA4AE9DAB4912DFAC3616F72EA2E /* Debug */,
-				67C068B4E1F5752DE75F1E0B05BED593 /* Release */,
+				1BC623AD06767CE1E611428551E6EAA2 /* Debug */,
+				F84BC0BF82EDABCDF81D2996C41E18F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2480,8 +2514,8 @@
 		D6D38DC358101E4CB0612291BAF9DE06 /* Build configuration list for PBXNativeTarget "YLT_BaseLib" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ED47A72A12F5599288419ABA06A34971 /* Debug */,
-				671C3764C0E19EC5717F922FE276B920 /* Release */,
+				AB4369262D604BD5C67B6053E09B2A37 /* Debug */,
+				9D2AAA2DD48A48EB738BA62A64264150 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

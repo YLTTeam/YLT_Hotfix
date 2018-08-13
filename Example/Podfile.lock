@@ -20,9 +20,19 @@ DEPENDENCIES:
   - WToast
   - YLT_Hotfix (from `../`)
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Aspects
+    - FastCoding
+    - FMDB
+    - LGAlertView
+    - MJExtension
+    - WToast
+    - YLT_BaseLib
+
 EXTERNAL SOURCES:
   YLT_Hotfix:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
   Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
@@ -36,4 +46,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 773d33bfcfadda629a61e4f4d11cab6f32a191ed
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.5.3

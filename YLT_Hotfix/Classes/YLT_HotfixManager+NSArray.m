@@ -10,7 +10,6 @@
 @implementation YLT_HotfixManager (NSArray)
 
 - (void)setupArray:(JSContext *)context {
-    
     context[@"objectAtIndex"] = ^id(id instance, id obj1) {
         if (![instance isKindOfClass:[NSArray class]]) {
             return nil;

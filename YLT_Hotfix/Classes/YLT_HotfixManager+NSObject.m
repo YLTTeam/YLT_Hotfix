@@ -34,11 +34,7 @@
     context[@"return"] = ^id(id instance, id obj1) {
         return @YES;
     };
-    
-    
 }
-
-
 
 #pragma mark - setter getter
 - (void(^)(NSString *message))ylt_toast {

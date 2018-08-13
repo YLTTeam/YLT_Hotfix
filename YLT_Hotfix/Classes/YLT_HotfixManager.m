@@ -53,6 +53,7 @@ YLT_ShareInstance(YLT_HotfixManager);
     return [instance performSelector:NSSelectorFromString(selector) withObject:obj1 withObject:obj2];
 #pragma clang diagnostic pop
 }
+
 - (void)setup {
     __weak typeof(self) wkself = self;
     self.context[@"fixInstanceMethodBefore"] = ^(NSString *instanceName, NSString *selectorName, JSValue *fixImpl) {
